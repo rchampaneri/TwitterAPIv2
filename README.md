@@ -1,4 +1,4 @@
-# SocialOpinion-Public
+# TwitterAPIv2 Solution
 APIs written in C# that connect to the NEW TwitterAPI
 
 Provides support for the following endpoints:
