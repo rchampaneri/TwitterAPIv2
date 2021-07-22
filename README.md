@@ -1,5 +1,5 @@
 # TwitterAPIv2 Solution
-APIs written in C# that connect to the NEW TwitterAPI
+APIs written in C# that connect to the TwitterAPI v2.
 
 Provides support for the following endpoints:
 
