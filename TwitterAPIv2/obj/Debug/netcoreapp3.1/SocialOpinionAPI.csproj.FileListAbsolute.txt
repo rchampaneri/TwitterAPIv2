@@ -1,0 +1,9 @@
+C:\Users\ronak\Downloads\SocialOpinion-Public-master\SocialOpinion-Public-master\SocialOpinionAPI\bin\Debug\netcoreapp3.1\SocialOpinionAPI.deps.json
+C:\Users\ronak\Downloads\SocialOpinion-Public-master\SocialOpinion-Public-master\SocialOpinionAPI\bin\Debug\netcoreapp3.1\SocialOpinionAPI.dll
+C:\Users\ronak\Downloads\SocialOpinion-Public-master\SocialOpinion-Public-master\SocialOpinionAPI\bin\Debug\netcoreapp3.1\SocialOpinionAPI.pdb
+C:\Users\ronak\Downloads\SocialOpinion-Public-master\SocialOpinion-Public-master\SocialOpinionAPI\obj\Debug\netcoreapp3.1\SocialOpinionAPI.AssemblyInfoInputs.cache
+C:\Users\ronak\Downloads\SocialOpinion-Public-master\SocialOpinion-Public-master\SocialOpinionAPI\obj\Debug\netcoreapp3.1\SocialOpinionAPI.AssemblyInfo.cs
+C:\Users\ronak\Downloads\SocialOpinion-Public-master\SocialOpinion-Public-master\SocialOpinionAPI\obj\Debug\netcoreapp3.1\SocialOpinionAPI.csproj.CoreCompileInputs.cache
+C:\Users\ronak\Downloads\SocialOpinion-Public-master\SocialOpinion-Public-master\SocialOpinionAPI\obj\Debug\netcoreapp3.1\SocialOpinionAPI.dll
+C:\Users\ronak\Downloads\SocialOpinion-Public-master\SocialOpinion-Public-master\SocialOpinionAPI\obj\Debug\netcoreapp3.1\SocialOpinionAPI.pdb
+C:\Users\ronak\Downloads\SocialOpinion-Public-master\SocialOpinion-Public-master\SocialOpinionAPI\bin\Debug\netcoreapp3.1\SocialOpinionAPI.dll.config

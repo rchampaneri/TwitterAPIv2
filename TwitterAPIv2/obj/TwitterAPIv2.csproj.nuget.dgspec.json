@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyDocs\\projects\\TwitterAPIv2Solution\\TwitterAPIv2\\TwitterAPIv2.csproj": {}
+  },
+  "projects": {
+    "C:\\MyDocs\\projects\\TwitterAPIv2Solution\\TwitterAPIv2\\TwitterAPIv2.csproj": {
+      "version": "2.0.9",
+      "restore": {
+        "projectUniqueName": "C:\\MyDocs\\projects\\TwitterAPIv2Solution\\TwitterAPIv2\\TwitterAPIv2.csproj",
+        "projectName": "TwitterAPIv2",
+        "projectPath": "C:\\MyDocs\\projects\\TwitterAPIv2Solution\\TwitterAPIv2\\TwitterAPIv2.csproj",
+        "packagesPath": "C:\\Users\\ronak\\.nuget\\packages\\",
+        "outputPath": "C:\\MyDocs\\projects\\TwitterAPIv2Solution\\TwitterAPIv2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ronak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
